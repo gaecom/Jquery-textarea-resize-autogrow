@@ -1,0 +1,1 @@
+This plugin gives both auto growing and resizable textarea. For achieving this I used 2 jquery plugins1. http://plugins.jquery.com/project/TextAreaResizer2. http://unwrongest.com/projects/elastic/This is a simple plugin which make the textarea to grow automatically as the user types in the textarea. This also makes the textarea to be resizable (as in drupal textarea)
